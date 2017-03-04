@@ -3,13 +3,19 @@
   "main": "./lib/main",
   "version": "0.0.0",
   "description": "Always honor AltGraph",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/atom/honor-altgraph",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
+  "scripts": {
+    "lint": "eslint lib spec"
+  },
+  "devDependencies": {
+    "eslint": "^3.17.0",
+    "eslint-config-standard": "^7.0.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^2.1.1"
   }
 }
