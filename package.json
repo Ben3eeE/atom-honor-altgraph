@@ -2,7 +2,7 @@
   "name": "honor-altgraph",
   "main": "./lib/main",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Always honor AltGraph",
   "keywords": [
   ],
   "repository": "https://github.com/atom/honor-altgraph",
