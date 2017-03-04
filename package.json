@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Always honor AltGraph",
   "keywords": [],
-  "repository": "https://github.com/atom/honor-altgraph",
+  "repository": "https://github.com/Ben3eeE/atom-honor-altgraph",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
